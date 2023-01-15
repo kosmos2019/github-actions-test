@@ -1,0 +1,24 @@
+name: Jawad
+age: 23
+address: "klkl lkmlmlml"
+active: true
+key:
+   key: value
+   key2: S33
+   key3:
+       key: value1
+       key2: AZ
+array:
+  - item1
+  - item2
+  - { item3: value }
+jsonArray: [item1, item2]
+objectsArray:
+  - key1: 1
+    key2: 2
+  - key1: 3
+    key2: 4
+longText: | 
+    line1 test
+    line2 test
+    line3 test
