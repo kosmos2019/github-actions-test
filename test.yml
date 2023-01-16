@@ -4,10 +4,10 @@ address: "klkl lkmlmlml"
 active: true
 key:
    key: value
-   key2: S33
+   key2: S333
    key3:
        key: value1
-       key2: AZ
+       key2: AZZZ
 array:
   - item1
   - item2
